@@ -1,4 +1,4 @@
-# Luces y Texturas con Processing 
+# Processing OpenCV
 
 ## Sobre el Autor
 
